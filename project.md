@@ -21,17 +21,17 @@ Final report: Tuesday, May 18, 2021
 
 
 ### Project Proposal (6%):
-A canvas assignment will be made available for a project proposal. Please follow the guidelines given below.
-The project proposal should be one page at a maximum (400-800 words). Your project proposal should describe:
-What is the problem that you will be investigating? Why is it interesting?
-What reading will you examine to provide context and background?
-What data will you use? If you are collecting new data, how will you do it?
-What method or algorithm are you proposing? If there are existing implementations, will you use them, and how? 
-How do you plan to improve or modify such implementations? You don't have to have an exact answer at this point, but you should have a general sense of how you will approach the problem you are working on.
-How will you evaluate your results? Qualitatively, what kind of results do you expect (e.g. plots or figures)? 
-Quantitatively, what kind of analysis will you use to evaluate and/or compare your results (e.g. what performance metrics or statistical tests)?
-Who are the members of your team? Who is your TA adviser? You should have an idea of the division of labor between the team members.
-Only one person from each group/team should submit the proposal to Canvas. The submission should be ONE single page PDF format. Teams should have a title, the name of their team members, and their TA adviser.
+A canvas assignment will be made available for a project proposal. Please follow the guidelines given below.  
+The project proposal should be one page at a maximum (400-800 words). Your project proposal should describe:  
+What is the problem that you will be investigating? Why is it interesting?  
+What reading will you examine to provide context and background?  
+What data will you use? If you are collecting new data, how will you do it?  
+What method or algorithm are you proposing? If there are existing implementations, will you use them, and how?  
+How do you plan to improve or modify such implementations? You don't have to have an exact answer at this point, but you should have a general sense of how you will approach the problem you are working on.  
+How will you evaluate your results? Qualitatively, what kind of results do you expect (e.g. plots or figures)?  
+Quantitatively, what kind of analysis will you use to evaluate and/or compare your results (e.g. what performance metrics or statistical tests)?  
+Who are the members of your team? Who is your TA adviser? You should have an idea of the division of labor between the team members.  
+Only one person from each group/team should submit the proposal to Canvas. The submission should be ONE single page PDF format. Teams should have a title, the name of their team members, and their TA adviser.  
 
 ### Milestone 1 review (2%):
 Teams will meet with their TAs to report the progress made until that point.
