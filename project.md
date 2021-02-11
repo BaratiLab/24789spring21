@@ -94,6 +94,7 @@ Supplementary Material, not counted toward your 6-8 page limit and submitted as 
 2. Cool videos, interactive visualizations, demos, etc.  
 3. Examples of things to not put in your supplementary material:  
 4. The entire PyTorch/TensorFlow Github source code.   
+
 It should not include:
 1. Any code that is larger than 10 MB.  
 2. Model checkpoints.  
