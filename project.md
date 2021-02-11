@@ -10,7 +10,11 @@ We encourage you to reach out to TAs you are interested in working with.
 
 Following are the project guidelines to be followed during the complete semester.
 1. A team should not have more than 4 members. Recommended size is 3.
-2. There are four components: a. Project Proposal b. Mid-semester milestones c. Presentation d. Final report
+2. There are four components:  
+a. Project Proposal  
+b. Mid-semester milestones  
+c. Presentation  
+d. Final report  
 
 # Timeline and deadlines:
 Project Proposal: **Sunday, February 28, 2021**  
