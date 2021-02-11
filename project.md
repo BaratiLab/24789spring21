@@ -13,11 +13,11 @@ Following are the project guidelines to be followed during the complete semester
 2. There are four components: a. Project Proposal b. Mid-semester milestones c. Presentation d. Final report
 
 # Timeline and deadlines:
-Project Proposal: Sunday, February 28, 2021
-Milestone 1 review: Thursday, March 18, 2021
-Milestone 2 review: Tuesday, April 20, 2021
-Presentation: Tuesday, May 11, 2021
-Final report: Tuesday, May 18, 2021
+Project Proposal: **Sunday, February 28, 2021**  
+Milestone 1 review: **Thursday, March 18, 2021**  
+Milestone 2 review: **Tuesday, April 20, 2021**  
+Presentation: **Tuesday, May 11, 2021**  
+Final report: **Tuesday, May 18, 2021**  
 
 
 ### Project Proposal (6%):
